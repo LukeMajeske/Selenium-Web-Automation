@@ -6,3 +6,9 @@ the site to store a value from a search result and saves it to the excel file li
 
 
 There are 15 different Addresses to search for 15 different Health Insurance plans. Then for each address and for each health plan, 3 different sub-searches need to be made to gather the number of providers in the given area. That means there are 675 unique searches to be done on the website, which would take a long time to do manually. This automation will run in the background populating the spreedsheet with the correct values from the site saving a lot of time.
+
+DEPENDENCIES:
+1. chromedriver
+2. Selenium
+3. openpyxl
+4. randim_user_agent
