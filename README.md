@@ -11,4 +11,4 @@ DEPENDENCIES:
 1. chromedriver
 2. Selenium
 3. openpyxl
-4. randim_user_agent
+4. random_user_agent
